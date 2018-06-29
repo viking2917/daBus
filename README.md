@@ -1,4 +1,4 @@
-#da Bus Alexa skill example
+#Da Bus Alexa skill example
 
 Example Alexa skill that uses Honolulu's The Bus API to tell you when the next bus is. 
 
