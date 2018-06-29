@@ -1,0 +1,23 @@
+{
+  "name": "skill-thp-book-recommender-2",
+  "version": "1.0.0",
+  "description": "Recommend books via Alexa and THP's algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viking2917/ReadNextAlexa.git"
+  },
+  "author": "Mark Watkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viking2917/ReadNextAlexa/issues"
+  },
+  "homepage": "https://github.com/viking2917/ReadNextAlexa#readme",
+  "dependencies": {
+    "ask-sdk": "^2.0.6",
+    "gender-guess": "^1.0.4"
+  }
+}

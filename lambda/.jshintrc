@@ -1,0 +1,8 @@
+{
+    "esversion": 6,
+    "undef": true,
+    "unused": true,
+    "predef" : ["require", "exports", "firebase", "angular", "cordova", "StatusBar", "Camera", "ContactFindOptions", "Bloodhound", "anchorme", "Handlebars", "ionic", "console", "AppRate", "IonicNative", "ExpirationCache"],
+    "browser" : true,
+    "jquery" : true
+}
