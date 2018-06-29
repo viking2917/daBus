@@ -1,4 +1,4 @@
-# Project Title
+#da Bus Alexa skill example
 
 Example Alexa skill that uses Honolulu's The Bus API to tell you when the next bus is. 
 
@@ -7,14 +7,13 @@ Example Alexa skill that uses Honolulu's The Bus API to tell you when the next b
 
 ### Prerequisites
 
-Alexa Developer Console (where the Skill lives): https://developer.amazon.com/alexa/console/ask (under my mark.watkins1 account)
+Alexa Developer Console (where the Skill lives): https://developer.amazon.com/alexa/console/ask.
 
-AWS Console (where the lambda function backend lives: https://console.aws.amazon.com/lambda (under my mark@thehawaiiproject.com account)
-
+AWS Console (where the lambda function backend lives: https://console.aws.amazon.com/lambda.
+.
 Depending on how you set up your alexa skill (Custom vs Blueprint), you may also need npm and to install the ask-sdk npm module. (https://aws.amazon.com/sdk-for-node-js/).
 
 ```
-Give examples
 ```
 
 ### Installing
