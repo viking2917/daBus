@@ -52,9 +52,6 @@ const NextBusHandler = {
 	    httpGet(query, (theResult) => {
 		var speechOutput = "";
 		if(theResult) {
-		    // console.log("sent     : " + query);
-		    // console.log("received : " + JSON.stringify(theResult));
-		   
 		    speechOutput = "The bus will arrive at stop " + theResult.stop + " at " + theResult.stopTime;
 		    resolve(handlerInput.responseBuilder
 			    .speak(speechOutput).withSimpleCard(SKILL_NAME, speechOutput)
